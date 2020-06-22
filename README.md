@@ -4,7 +4,7 @@ Jacobo Placeres Cabrera
 
 ## Trabajo
 El proyecto consiste en un sistema planetario y una serie de modos de vista, que permite alternar entre varias camaras, algunas de estas camaras traen funcionalidades que les permite moverse mediante teclas.
-![](p.gif)
+
 
 ## Eventos
 Como se comento anteriormente se emplea el teclado para mover las camaras.
