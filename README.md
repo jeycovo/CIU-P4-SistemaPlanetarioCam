@@ -12,14 +12,14 @@ Como se comento anteriormente se emplea el teclado para mover las camaras.
 ## Librerias empleadas
 No se ha empleado ninguna librería.
 
-# Modos de vista
-## Vista General
+## Modos de vista
+### Vista General
   Muestra una vista general del sistema Solar, permite mover la nave, pero no la propia vista.
 
-## Vista Planeta
+### Vista Planeta
   Esta vista esta anclada a un planeta, permite examinarlo con atención, aqui no se puede mover la cámara.
 
-## Vista Nave
+### Vista Nave
  Permite colocarse detras de la nave, en este modo se puede mover libremente la cámara.
  
 ## Notas de uso
